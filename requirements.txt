@@ -12,3 +12,4 @@ validators
 requests
 python-docx
 python-dotenv
+protobuf<5.0.0
