@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain-huggingface
+sentence-transformers
+langchain-community
+langchain-chroma
+langchain-text-splitters
+langgraph
+chromadb
+pymupdf4llm
+validators
+requests
+python-docx
+python-dotenv
