@@ -103,6 +103,16 @@ The application will open automatically in your default internet browser targeti
 
 ---
 
-## 📜 License
+## � Live demo
+
+Try the deployed LexiGuard AI web app on Streamlit:
+
+[LexiGuard AI — Live App](https://lexiguard-ai-ont5bo4tm4gxguqcab3oux.streamlit.app/)
+
+You can also find this live app linked from the repository owner's GitHub profile for easy access.
+
+---
+
+## �📜 License
 
 This project is licensed under the [MIT License](LICENSE).
